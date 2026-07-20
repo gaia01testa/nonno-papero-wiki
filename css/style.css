@@ -162,10 +162,6 @@ main{
     transform:scale(1.05);
 }
 
-.foto-centro{
-    grid-colum: 2;
-}
-
 .contatti-box{
     max-width:700px;
     margin:40px auto;
